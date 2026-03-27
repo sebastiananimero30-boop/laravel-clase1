@@ -8,7 +8,7 @@
 <body>
 
     <h1>Bienvenido a mi primer proyecto Laravel</h1>
-    <p>Desarrollado por: <strong>Tu Nombre</strong></p>
+    <p>Desarrollado por: <strong>sebastian animero</strong></p>
 
 </body>
 </html>
